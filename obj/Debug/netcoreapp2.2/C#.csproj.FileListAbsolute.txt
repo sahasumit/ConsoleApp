@@ -1,0 +1,11 @@
+/home/sumit/C#/bin/Debug/netcoreapp2.2/C#.deps.json
+/home/sumit/C#/bin/Debug/netcoreapp2.2/C#.runtimeconfig.json
+/home/sumit/C#/bin/Debug/netcoreapp2.2/C#.runtimeconfig.dev.json
+/home/sumit/C#/bin/Debug/netcoreapp2.2/C#.dll
+/home/sumit/C#/bin/Debug/netcoreapp2.2/C#.pdb
+/home/sumit/C#/obj/Debug/netcoreapp2.2/C#.csprojAssemblyReference.cache
+/home/sumit/C#/obj/Debug/netcoreapp2.2/C#.csproj.CoreCompileInputs.cache
+/home/sumit/C#/obj/Debug/netcoreapp2.2/C#.AssemblyInfoInputs.cache
+/home/sumit/C#/obj/Debug/netcoreapp2.2/C#.AssemblyInfo.cs
+/home/sumit/C#/obj/Debug/netcoreapp2.2/C#.dll
+/home/sumit/C#/obj/Debug/netcoreapp2.2/C#.pdb
